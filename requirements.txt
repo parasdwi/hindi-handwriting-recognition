@@ -1,0 +1,7 @@
+# Starter dependencies inferred from the source imports.
+# For reproducible submission, replace with versions tested in your working environment.
+tensorflow
+gradio
+opencv-python-headless
+numpy
+Pillow

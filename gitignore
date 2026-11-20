@@ -1,0 +1,21 @@
+# Python caches and compiled artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local / editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local env vars and secrets
+.env
+.env.*
+
+# Do not ignore v4_best.weights.h5: the repository needs the model weights.
